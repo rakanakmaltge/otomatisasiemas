@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "otomatisasi-gempa-bumi",
+  "private_key_id": "eb3db59cc4a0752809c70c5bf046c4b5e6c439a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzzXRSIzAPjWKk\nyXCXlRyhkcrwJviXAeY6UPlqdAn5mVDdTb4GUqfLkTaZEjXfOHTKWVrnWVMv/E0D\naJQRhWCj8SzJUuL+dQZaBF+Uf40BLu0C6loozzD2TGEpXfgvfVmCVQNK/IRY85VD\np9dYmPoBa7Lzp1kh/31h+3UVYOkdiusTSy5Ugu1AxP0A3SyFEy7mVc4SzilGptV5\n7fTFhmOYgAQ+7Xw7vTs67gPraYMeSJxhTWttqFNsyVFtGQPIk2jXtIQgHEhlv4kO\nl7p/pO4N8oT5+OmTERAnY2aFq+PGgLj7UwCGysMfltNcWFHtiO4iAtLzkonxcvax\nz8Ecv0vRAgMBAAECggEABdIjRObMudmAQF4hHgHUISBA1ft9ABkt+eSrM8Nj8J0C\nXYJpzMyaOrXjHZuAUPoD6z/Eo0lkrwtXoZeeIN8U3NnZnamS8wfuLQsyiPKEKcNP\nevuumt7yR9b7LO//hpIOoXCHyxgCX4WAkeXPdpfP6CyIvj3vCHG7/mhknEznNG8/\nzoGdf9fXqkiB6zJpkZwOZVo7l4uFDHpCY4fG2GxrlSmpgGRMBuDc/yH/HYQ0YdWU\n1Mb0BLwqa3sKT1C7GTnAIWItV4krT4znw93dSePjHy4+upy/NWNzb82DnaMoq1D9\n54ZOIDro7tl95Km5JAqhDsX2B+5+HajTih3qwg8GHQKBgQD88HuKSuguxR9P466G\nNXWVtaeimxzKg+RyAu1Zl9A3+C2nd8YuSMIHUUUh4NlBYK9Xa1Gm6SyRjem9Hz+r\nVbbRqUg5Jik3WcZvZNQUr/NtygAM3Rl3+AlyiXd8uEkkBrlLMmTlE9Y3VRMHBhCN\nY1GF3mLqpGB4xFJ3Qr+CDq8LhwKBgQC1+mtpdlFm6LPuEI2tbWInE7oATFKABeO0\n74WHKkLHU+oc0lvm4myEeUk1we2KAtyjUFfvq8GPejpM84KU0vciC29NYkx+epeR\nqrGcRMCfTpn0uz3m3uG1mPr8SQJDu+Dch05bAy4ALSnRJQ6jjDcIiEcgG31u/bbv\nxmgFdoAz5wKBgGh96GtvGpAHuzHDu1uSRis8yi3wqmo3Jm67KtZyUwBsNGAUqPiB\n8jYXqtmeC+JoUMdqfGbZuSHAYKlSeXkMheQDbOS/ERPesI1gOAT70zKt2mt2A4l+\nHFkG1Sfe8chCRtX70ZaZJUvih2PFa50dRJZrEq4gjgIWCINgPcE607GNAoGAT4fs\nHaFKHjGhQXAWmy7s8KscZTj17WGljNQJhXMg0ECKVqJQ6+0VBCiFqGrix6hMiUt5\nwxNLessuY6cg8K3quARLVoSZbcViLJVvHh6mGHmfq2eRvC64ckczmcLGrJeVxIuV\n4QzYs9cJKZCKf0uuWZpFi3C4NyPHKa+Kkqihiw0CgYEAqOmbtLas2Gf14c0UrzVE\ncNkE7bpiE1T+wYMIbyD0d/dimrokMJMYGumnTYgagt4LF2mBcCk9rLxL7Nhi7/Ri\nsvVNEyTpZqDicjOifAf6MDKNQ+a5Xi7+NTFnEs+0/FOd5ZN8Z8hvSnjRuNtfCG39\nwXUdUALP62AvuW/HEU11a0I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-oto-iam-gserviceaccount@otomatisasi-gempa-bumi.iam.gserviceaccount.com",
+  "client_id": "110792585082501523669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-oto-iam-gserviceaccount%40otomatisasi-gempa-bumi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
